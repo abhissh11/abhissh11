@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Abhishek Kumar a Fullstack web developer hailing from Kolkata, India.<br>I'm actively looking for Frontend/Fullstack Dev role.<br>Contact me at abhishekkr.nsec@gmail.com<br>or Visit my portfolio: https://abhishekkr-dev.vercel.app/
+Hey there, I'm Abhishek Kumar a Fullstack web developer hailing from Kolkata, India.<br>I'm actively looking for Frontend/Fullstack Dev role.<br>Contact me at abhishekkr.nsec@gmail.com<br>or Visit my portfolio: abhish.tech
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhissh11&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
