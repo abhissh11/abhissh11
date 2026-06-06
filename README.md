@@ -1,10 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Abhishek Kumar a Fullstack Developer hailing from Gaya, BR - Currently based in Bengaluru, India .<br>I'm actively looking for Frontend/Fullstack Dev role.<br>Contact me at abhishekkr.ssh@gmail.com<br>or Visit my portfolio: [abhish.tech](https://abhishekkr.in/)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhissh11&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhissh11&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhissh11&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hey there, I'm Abhishek Kumar a Fullstack Developer hailing from Gaya, BR - Currently based in Bengaluru, India .<br>I'm actively looking for Frontend/Fullstack Dev role.<br>Contact me at abhishekkr.ssh@gmail.com<br>or Visit my portfolio: [abhishekkr.in](https://abhishekkr.in/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
