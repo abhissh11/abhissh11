@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Abhishek Kumar a Fullstack Developer hailing from Gaya, BR - Currently based in Bengaluru, India .<br>I'm actively looking for Frontend/Fullstack Dev role.<br>Contact me at abhishekkr.ssh@gmail.com<br>or Visit my portfolio: [abhishekkr.in](https://abhishekkr.in/)
+Hey there, I'm Abhishek Kumar a Software Engineer based in Bengaluru, India .<br>I've over 1+ year of experience working on production applications.<br>Contact me at abhishekkr.ssh@gmail.com<br>or Visit my portfolio: [abhishekkr.in](https://abhishekkr.in/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
